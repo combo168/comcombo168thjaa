@@ -1,0 +1,17 @@
+{
+  "name": "combo168 สุดยอดเว็บสล็อตที่ดีที่สุดในโลก",
+  "main": "combo168",
+  "theme": "syntax",
+  "version": "2.3.0",
+  "description": "combo168 เล่นสล็อตออนไลน์กับค่ายดังชั้นนำ แจกสูตรเล่นได้เงินไม่อั้น รวยเร็วต้องลองบอกเลย",
+  "keywords": [
+    "เว็บสล็อต",
+	"สล็อตออนไลน์",
+	"สล็อต พีจี"
+  ],
+  "repository": "https://github.com/combo168/comcombo168thjaa",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
